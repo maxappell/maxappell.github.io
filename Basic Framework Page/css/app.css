@@ -1,0 +1,13 @@
+.mainheader {background-color: #ff0000; color: white; text-align: center; }
+
+h1 {font-family: 'Noto Sans Display', sans-serif; color: black;}
+p {font-family: 'Noto Sans Display', sans-serif; color: darkblue; font-weight: 900;}
+
+.box1 {background-color: #7fd4f9;}
+
+.box2 {background-color: #A8DBA8;}
+
+.box3 {background-color: #fc9d9a;}
+
+.grassbox {background-image: url(../images/grass.jpg); background-attachment: fixed;}
+.clemmy {background-image: url(../images/clemmy.jpg); background-attachment: fixed;}
